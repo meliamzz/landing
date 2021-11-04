@@ -1,0 +1,21 @@
+.footer {
+  background-color: #83BD88;
+}
+
+.networks {
+  display: flex;
+  justify-content: space-around;
+  padding: 30px;
+
+}
+
+.networks > a > i {
+  color: white;
+}
+
+.footer > p {
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}

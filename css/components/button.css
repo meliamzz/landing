@@ -1,0 +1,18 @@
+.btn {
+  background-color: #83BD88;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+  padding: 20px 50px;
+  margin-bottom: 30px;
+}
+
+.btn:hover {
+  background-color: #ADC2A9;
+}
+
+@media (max-width: 720px) {
+  .btn {
+    padding: 15px 25px;
+  }
+}
